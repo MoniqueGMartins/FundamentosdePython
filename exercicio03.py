@@ -7,6 +7,6 @@ numero = int(input("Digite um número: "))
 dobro = numero * 2
 
 #Saída
-print(f"O dobro do número digitado é : {dobro}")
+print(f"O dobro de {numero} é : {dobro}")
 
 

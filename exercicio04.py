@@ -2,11 +2,11 @@
 
 #Entrada
 nome =  input("Digite o seu nome: ")
-peso = float(input("Digite o seu peso em: "))
-altura = float(input("Digite a sua altura em: "))
+peso = float(input("Digite o seu peso: "))
+altura = float(input("Digite a sua altura: "))
 
 #Processamento
 imc = peso / (altura * altura)
 
 #Saída
-print(f"{nome} seu IMC é : {imc}")
+print(f"{nome} seu IMC é : {imc:.2f}")
