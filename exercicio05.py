@@ -8,4 +8,4 @@ centimetros =  float(input("Digite o valor em centimentros: "))
 polegadas = centimetros / 2.54
 
 #Saída
-print(f"Centimetros convertido para polegadas é : {polegadas}")
+print(f"{centimetros} Centimetros equivalem a {polegadas} polegadas")
