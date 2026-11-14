@@ -10,3 +10,4 @@ imc = peso / (altura * altura)
 
 #Saída
 print(f"{nome} seu IMC é : {imc:.2f}")
+
