@@ -1,0 +1,33 @@
+# Utilize o comando print ("meu passo 1")
+# Algoritmo para trocar um pneu de carro
+
+print("Algortimo_Trocar_Pneu_de_um_Carro")
+
+print("Pare o carro em um local seguro de preferência em um acostamento")
+print("Ligue o pisca-alerta")
+print("Puxar o freio de mão")
+print("Desligar o carro")
+print("Desçer do carro")
+print("Vá até o porta-malas")
+print("Abra o porta-malas")
+print("Pegue o triângulo e monte o atrás do carro")
+print("Verifique qual o pneu que precisa trocar")
+print("Pegue a chave de roda")
+print("Vá até o pneu que precisa trocar")
+print("Afrouxar os parafusos com o carro ainda no chão")
+print("Pegue o macaco que esta no porta-malas")
+print("Coloque o macaco no ponto indicado do pneu que precisa ser trocado ")
+print("Retire o pneu que esta furado")
+print("Coloque o estepe")
+print("Coloque os parafusos")
+print("Certifique-se que apertou bem os parafusos")
+print("Desça o carro")
+print("Retire o macaco")
+print("Guarde no porta-malas o pneu furado, o macado, o triângulo e a chave de roda")
+print("Feche o porta-malas")
+print("Entre no carro")
+print("Feche a porta")
+print("Desligue o pisca-alerta")
+
+
+print("Fim")
